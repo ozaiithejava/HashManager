@@ -1,0 +1,2 @@
+# HashManager
+basic manager usefuly
